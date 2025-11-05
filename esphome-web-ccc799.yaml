@@ -1,0 +1,6 @@
+<<: !include .base.yaml
+<<: !include .esphome-drybox.yaml
+
+esphome:
+  name: esphome-web-ccc799
+  friendly_name: ESPHome-Drybox-01

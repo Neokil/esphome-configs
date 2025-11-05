@@ -1,0 +1,6 @@
+<<: !include .base.yaml
+<<: !include .esphome-presence.yaml
+
+esphome:
+  name: esphome-web-ccc350
+  friendly_name: ESPHome-Presence-01
